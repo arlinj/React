@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-    <h1> hola mundo - ts </h1>
+    <h1> react + typeScript </h1>
     </>
   );
 }
